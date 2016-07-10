@@ -7,3 +7,4 @@ All notes for the conference can be found here.
 - [HTTP in Go](http-go/http-in-go.md)
 - [All things Auth](http-go/authorization.md)
 - [Security](http-go/security.md)
+- [Frameworks](http-go/frameworks.md)
