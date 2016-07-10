@@ -9,3 +9,4 @@ All notes for the conference can be found here.
 - [Security](http-go/security.md)
 - [Frameworks](http-go/frameworks.md)
   - [exercise](http-go/frameworks-exercise.md)
+- [Production](http-go/production.md)
