@@ -10,5 +10,7 @@ All notes for the conference can be found here.
 - [All things Auth](http-go/authorization.md)
 - [Security](http-go/security.md)
 - [Frameworks](http-go/frameworks.md)
-  - [exercise](http-go/frameworks-exercise.md)
+ - [exercise](http-go/frameworks-exercise.md)
 - [Production](http-go/production.md)
+
+## [Day 1](day-1.md)
