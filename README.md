@@ -2,6 +2,8 @@
 
 All notes for the conference can be found here.
 
+## Building and HTTP API in Go
+
 - [Introduction](http-go/introduction.md)
 - [API tools](http-go/api-tools.md)
 - [HTTP in Go](http-go/http-in-go.md)
